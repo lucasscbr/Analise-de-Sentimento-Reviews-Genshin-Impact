@@ -1,0 +1,1 @@
+# Analise-de-Sentimento-Reviews-Genshin-Impact
